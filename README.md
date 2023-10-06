@@ -1,7 +1,8 @@
 # FBprophet_seasonal_time_series
 
 
-- FBprophet gained so much popularity in modeling seasonal time series data , it has many robust tools to handle : 
+- FBprophet gained so much popularity in modeling seasonal time series data , it has many robust tools t
+  to handle : 
    - Time series withs known gaps .
    - Complex Periodic phenomenons such as conditional seasons.
    - Robust methods to handle outliers changes in trends changes in seasonal components , holidays and special events.
